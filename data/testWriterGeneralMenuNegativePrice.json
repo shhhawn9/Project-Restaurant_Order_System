@@ -1,0 +1,20 @@
+{"menu": [
+          {
+                    "price": 10.5,
+                    "name": "Food1",
+                    "drink": false,
+                    "food": true
+          },
+          {
+                    "price": 11,
+                    "name": "Food2",
+                    "drink": false,
+                    "food": true
+          },
+          {
+                    "price": -12,
+                    "name": "Food3",
+                    "drink": false,
+                    "food": true
+          }
+]}

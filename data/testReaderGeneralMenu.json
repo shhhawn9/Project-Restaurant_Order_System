@@ -1,0 +1,50 @@
+{"menu": [
+          {
+                    "price": 40.5,
+                    "name": "Black Cod With Miso",
+                    "food": true,
+                    "drink": false
+          },
+          {
+                    "price": 20,
+                    "name": "Black Label Burger",
+                    "food": true,
+                    "drink": false
+          },
+          {
+                    "price": 15.7,
+                    "name": "Canlis Salad",
+                    "food": true,
+                    "drink": false
+          },
+          {
+                    "price": 17,
+                    "name": "Carnitas Burrito",
+                    "food": true,
+                    "drink": false
+          },
+          {
+                    "price": 5,
+                    "name": "Fries",
+                    "food": true,
+                    "drink": false
+          },
+          {
+                    "price": 3.5,
+                    "name": "Soda",
+                    "food": false,
+                    "drink": true
+          },
+          {
+                    "price": 80,
+                    "name": "Wine",
+                    "food": false,
+                    "drink": true
+          },
+          {
+                    "price": 0,
+                    "name": "Water",
+                    "food": false,
+                    "drink": true
+          }
+]}
